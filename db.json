@@ -1,4 +1,6 @@
-"licenses":{
-  "names": "temitayo",
-  "tokens": "wc-defaults-license"
+{
+  "licenses":{
+    "names": "temitayo",
+    "tokens": "wc-defaults-license"
+  }
 }
